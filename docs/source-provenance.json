@@ -1,0 +1,26 @@
+{
+  "review_date": "2026-11-20",
+  "method": "Public artifact and selected source review; no source repositories modified",
+  "repositories": [
+    {
+      "repository": "amazon-india-market-intelligence-agent",
+      "reviewed_tree_sha": "ed87c440aaf278b47712ae381cb02ff8343b5070"
+    },
+    {
+      "repository": "market-research-analytics-pipeline",
+      "reviewed_tree_sha": "cf32dd3c33ba7bbd03443496582ae4c2bb94791f"
+    },
+    {
+      "repository": "novatech-revenue-intelligence-dashboard",
+      "reviewed_tree_sha": "29f45bad05077592990db3c32e311c5e168b1c5d"
+    },
+    {
+      "repository": "python-web-scraping-and-data-analysis-portfolio",
+      "reviewed_tree_sha": "f43e7dfa491fe9985a0250847848259178fb6ed9"
+    },
+    {
+      "repository": "yaysonvalencia",
+      "reviewed_tree_sha": "be053e000431cbf809aed896ef0d70520971d1a6"
+    }
+  ]
+}
